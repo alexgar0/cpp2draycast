@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="2draycast" targetName="2draycast" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e877685-14be-4eea-96fe-321229e70704" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1uwenQcznF5cs1jfG3HtWevoWD5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="com.google.cloudcode.ide_session_index" value="20210707_0005" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="2draycast" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2draycast" TARGET_NAME="2draycast" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2draycast" RUN_TARGET_NAME="2draycast">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e877685-14be-4eea-96fe-321229e70704" name="Default Changelist" comment="" />
+      <created>1625581244847</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625581244847</updated>
+      <workItem from="1625581246702" duration="257000" />
+      <workItem from="1625581519989" duration="83000" />
+      <workItem from="1625581727174" duration="2016000" />
+      <workItem from="1625583765944" duration="4295000" />
+      <workItem from="1625607901873" duration="2558000" />
+      <workItem from="1625610487211" duration="2109000" />
+      <workItem from="1625612626379" duration="2290000" />
+      <workItem from="1625614945769" duration="516000" />
+      <workItem from="1625667287981" duration="1619000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="852" y="171" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1625581467401">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="852" y="171" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.2048.1122/2560.358.1920.1050@0.0.2048.1122" timestamp="1625581467401" />
+    <state x="805" y="316" key="FileChooserDialogImpl" timestamp="1625614939299">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="805" y="316" key="FileChooserDialogImpl/0.0.2048.1122/2560.358.1920.1050@0.0.2048.1122" timestamp="1625614939299" />
+    <state width="2005" height="302" key="GridCell.Tab.0.bottom" timestamp="1625668919900">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state width="2005" height="302" key="GridCell.Tab.0.bottom/0.0.2048.1122/2560.358.1920.1050@0.0.2048.1122" timestamp="1625668919900" />
+    <state width="2005" height="302" key="GridCell.Tab.0.center" timestamp="1625668919900">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state width="2005" height="302" key="GridCell.Tab.0.center/0.0.2048.1122/2560.358.1920.1050@0.0.2048.1122" timestamp="1625668919900" />
+    <state width="2005" height="302" key="GridCell.Tab.0.left" timestamp="1625668919900">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state width="2005" height="302" key="GridCell.Tab.0.left/0.0.2048.1122/2560.358.1920.1050@0.0.2048.1122" timestamp="1625668919900" />
+    <state width="2005" height="302" key="GridCell.Tab.0.right" timestamp="1625668919900">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state width="2005" height="302" key="GridCell.Tab.0.right/0.0.2048.1122/2560.358.1920.1050@0.0.2048.1122" timestamp="1625668919900" />
+    <state width="2005" height="372" key="GridCell.Tab.1.bottom" timestamp="1625610482161">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state width="2005" height="372" key="GridCell.Tab.1.bottom/0.0.2048.1122/2560.358.1920.1050@0.0.2048.1122" timestamp="1625610482161" />
+    <state width="2005" height="372" key="GridCell.Tab.1.center" timestamp="1625610482161">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state width="2005" height="372" key="GridCell.Tab.1.center/0.0.2048.1122/2560.358.1920.1050@0.0.2048.1122" timestamp="1625610482161" />
+    <state width="2005" height="372" key="GridCell.Tab.1.left" timestamp="1625610482161">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state width="2005" height="372" key="GridCell.Tab.1.left/0.0.2048.1122/2560.358.1920.1050@0.0.2048.1122" timestamp="1625610482161" />
+    <state width="2005" height="372" key="GridCell.Tab.1.right" timestamp="1625610482161">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state width="2005" height="372" key="GridCell.Tab.1.right/0.0.2048.1122/2560.358.1920.1050@0.0.2048.1122" timestamp="1625610482161" />
+    <state x="681" y="261" key="run.anything.popup" timestamp="1625608686728">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="681" y="261" key="run.anything.popup/0.0.2048.1122/2560.358.1920.1050@0.0.2048.1122" timestamp="1625608686728" />
+  </component>
+</project>
